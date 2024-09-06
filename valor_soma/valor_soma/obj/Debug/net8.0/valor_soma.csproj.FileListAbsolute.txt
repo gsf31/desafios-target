@@ -1,0 +1,15 @@
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\bin\Debug\net8.0\valor_soma.exe
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\bin\Debug\net8.0\valor_soma.deps.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\bin\Debug\net8.0\valor_soma.runtimeconfig.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\bin\Debug\net8.0\valor_soma.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\bin\Debug\net8.0\valor_soma.pdb
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.AssemblyInfoInputs.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.AssemblyInfo.cs
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.csproj.CoreCompileInputs.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.sourcelink.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\refint\valor_soma.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.pdb
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\valor_soma.genruntimeconfig.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\valor_soma\valor_soma\obj\Debug\net8.0\ref\valor_soma.dll

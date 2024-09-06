@@ -1,0 +1,15 @@
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\bin\Debug\net8.0\verifica_letra_a.exe
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\bin\Debug\net8.0\verifica_letra_a.deps.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\bin\Debug\net8.0\verifica_letra_a.runtimeconfig.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\bin\Debug\net8.0\verifica_letra_a.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\bin\Debug\net8.0\verifica_letra_a.pdb
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.AssemblyInfoInputs.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.AssemblyInfo.cs
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.csproj.CoreCompileInputs.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.sourcelink.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\refint\verifica_letra_a.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.pdb
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\verifica_letra_a.genruntimeconfig.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\verifica_letra_a\verifica_letra_a\obj\Debug\net8.0\ref\verifica_letra_a.dll

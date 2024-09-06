@@ -1,0 +1,15 @@
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\bin\Debug\net8.0\fibonacci_teste.exe
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\bin\Debug\net8.0\fibonacci_teste.deps.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\bin\Debug\net8.0\fibonacci_teste.runtimeconfig.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\bin\Debug\net8.0\fibonacci_teste.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\bin\Debug\net8.0\fibonacci_teste.pdb
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.AssemblyInfoInputs.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.AssemblyInfo.cs
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.csproj.CoreCompileInputs.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.sourcelink.json
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\refint\fibonacci_teste.dll
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.pdb
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\fibonacci_teste.genruntimeconfig.cache
+C:\Users\malis\OneDrive\Documentos\Projetos-PyJsC\ProjetosPyJsC\c_cscpp\fibonacci_teste\fibonacci_teste\obj\Debug\net8.0\ref\fibonacci_teste.dll

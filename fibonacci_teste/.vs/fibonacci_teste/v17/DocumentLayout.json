@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malis\\OneDrive\\Documentos\\Projetos-PyJsC\\ProjetosPyJsC\\c_cscpp\\fibonacci_teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD85672-D10A-4E69-802D-3475F0AE4978}|fibonacci_teste\\fibonacci_teste.csproj|c:\\users\\malis\\onedrive\\documentos\\projetos-pyjsc\\projetospyjsc\\c_cscpp\\fibonacci_teste\\fibonacci_teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD85672-D10A-4E69-802D-3475F0AE4978}|fibonacci_teste\\fibonacci_teste.csproj|solutionrelative:fibonacci_teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 122,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malis\\OneDrive\\Documentos\\Projetos-PyJsC\\ProjetosPyJsC\\c_cscpp\\fibonacci_teste\\fibonacci_teste\\Program.cs",
+              "RelativeDocumentMoniker": "fibonacci_teste\\Program.cs",
+              "ToolTip": "C:\\Users\\malis\\OneDrive\\Documentos\\Projetos-PyJsC\\ProjetosPyJsC\\c_cscpp\\fibonacci_teste\\fibonacci_teste\\Program.cs",
+              "RelativeToolTip": "fibonacci_teste\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:51:49.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
