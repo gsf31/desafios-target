@@ -99,14 +99,23 @@ Na Questão 4 achei interessante entender a lógica e compreender os resultados 
 QUESTÃO 5
 
 Interruptor 1, 2 e 3
+
 Salas 1, 2 e 3
+
 Ligando o interruptor 1 e esperando a lâmpada aquecer eu desligo o interruptor 1 e liga o interruptor 2 e vou na sala 1, e ai teria as seguintes situações:
+
 1-A sala 1 poderia estar com a lâmpada apagada e fria e ai seria o interruptor 3
+
 2-A sala 1 poderia estar com a lâmpada apagada e quente e seria o interruptor 1
+
 3-A sala 1 poderia estar com a lâmpada acesa e seria o interruptor 2.
+
 Voltando e indo a sala 2:
+
 1-Como eu sei que a sala 1 está apagada e fria e já sei que ela é o interruptor 3, se a sala 2 estivesse apagada e quente ela seria o interruptor 1 e por consequência a sala 3 seria o interruptor  2 e estaria acesa.
+
 2-Como eu sei que a sala 1 está apagada e quente eu sei que ela é o interruptor 1, se a sala 2 estiver apagada e frio o interruptor dela é o 3 e a sala 3 seria o interruptor 2 e estaria acesa.
+
 3-Como eu sei que a sala 1 é o interruptor 2, caso a sala 2 estivesse apagada e quente o interruptor dela seria o 1 e a sala 3 por consequência seria o interruptor com a lâmpada apagada e fria, ou o contrário caso a sala 2 estivesse com a lâmpada apagada e fria.
 
 
